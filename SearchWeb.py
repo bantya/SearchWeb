@@ -1,8 +1,8 @@
-# This package is inspired by https://packagecontrol.io/packages/Open%20URL
 import sublime
 import sublime_plugin
 import webbrowser
 import re
+
 
 def checkUrl(url):
     regex = re.compile(
