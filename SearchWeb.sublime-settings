@@ -1,0 +1,10 @@
+{
+    // Web browser to open
+    "browser": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+
+    // Should open new tab
+    "new_tab": true,
+
+    // Search engine to use
+    "search_engine": "https://www.google.co.in/search?q=%s"
+}
